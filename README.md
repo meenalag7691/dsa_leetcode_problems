@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0326-power-of-three/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0326-power-of-three/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Hash Table
