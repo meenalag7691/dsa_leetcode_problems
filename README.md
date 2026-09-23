@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
 <!---LeetCode Topics End-->
