@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
