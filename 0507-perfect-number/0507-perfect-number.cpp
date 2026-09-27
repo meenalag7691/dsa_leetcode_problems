@@ -2,7 +2,7 @@ class Solution {
 public:
     bool checkPerfectNumber(int num) {
         vector<int>divisors;
-        for(int i = 1 ; i< num; i++)
+        for(int i = 1 ; i<= num/2; i++)
         {
             if(num%i == 0)
                 divisors.push_back(i);
