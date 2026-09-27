@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
