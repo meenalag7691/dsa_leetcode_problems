@@ -57,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0202-happy-number/) | Easy |
+| [3945-digit-frequency-score](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
