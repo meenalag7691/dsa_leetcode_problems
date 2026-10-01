@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
