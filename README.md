@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
