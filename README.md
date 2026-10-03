@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-find-the-key-of-the-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
