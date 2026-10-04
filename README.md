@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Simulation
@@ -166,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
