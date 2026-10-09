@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0507-perfect-number/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Greedy
