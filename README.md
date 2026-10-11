@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Simulation
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
