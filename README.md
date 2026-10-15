@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1025-divisor-game/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -198,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
