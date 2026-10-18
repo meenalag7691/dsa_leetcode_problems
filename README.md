@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -211,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0836-rectangle-overlap/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
