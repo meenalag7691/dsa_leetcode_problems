@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
