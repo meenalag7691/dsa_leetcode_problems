@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -229,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
