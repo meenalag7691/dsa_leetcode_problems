@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
