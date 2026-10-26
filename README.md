@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0202-happy-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
 | [3945-digit-frequency-score](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
