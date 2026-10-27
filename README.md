@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0860-lemonade-change](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
+| [0860-lemonade-change](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
