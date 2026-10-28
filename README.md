@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0202-happy-number/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [1154-day-of-the-year](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1154-day-of-the-year/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
