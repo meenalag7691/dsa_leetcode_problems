@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0202-happy-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -261,4 +263,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0463-island-perimeter/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
