@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0697-degree-of-an-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0812-largest-triangle-area](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Number Theory
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
