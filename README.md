@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
@@ -281,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
