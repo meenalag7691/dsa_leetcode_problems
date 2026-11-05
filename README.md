@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
