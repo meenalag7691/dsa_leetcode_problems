@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1089-duplicate-zeros](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
+| [1089-duplicate-zeros](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
