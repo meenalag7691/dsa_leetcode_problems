@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0888-fair-candy-swap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
