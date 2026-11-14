@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0942-di-string-match/) | Easy |
 | [1089-duplicate-zeros](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1089-duplicate-zeros/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
