@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0888-fair-candy-swap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0888-fair-candy-swap/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Bit Manipulation
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -294,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0463-island-perimeter/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Depth-First Search
