@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2032-two-out-of-three](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2032-two-out-of-three/) | Easy |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0561-array-partition](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0561-array-partition/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Matrix
