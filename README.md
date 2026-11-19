@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0696-count-binary-substrings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0696-count-binary-substrings/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0344-reverse-string](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0415-add-strings/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
