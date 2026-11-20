@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0888-fair-candy-swap](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/meenalag7691/dsa_leetcode_problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
